@@ -84,7 +84,7 @@
                               data-rotate='[ "web interfaces.", "design & create backend APIs.", "tokens & NFT.", "stable Hosting." ]'></span>&lt;/<i>code</i>&gt;</div>
                           <div class="dan-buttons-frame">
                             <!-- button -->
-                            <a href="./portfolio-3-col-masonry.html" class="dan-btn dan-btn-md"><span>Explore now</span></a>
+                            <a href="./portfolio" class="dan-btn dan-btn-md"><span>Explore now</span></a>
                           </div>
                         </div>
                         <!-- main title end -->
